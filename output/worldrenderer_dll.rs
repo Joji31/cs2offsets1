@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-08-02 09:21:16.119787600 UTC
+// 2025-08-19 08:52:44.104675100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -319,7 +319,7 @@ pub mod cs2_dumper {
                 pub const m_pMaterial: usize = 0x50; // CStrongHandle<InfoForResourceTypeIMaterial2>
                 pub const m_nRenderOrder: usize = 0x58; // int32
                 pub const m_vTintColor: usize = 0x5C; // Vector4D
-                pub const m_nSequenceOverride: usize = 0x6C; // int32
+                pub const m_sSequenceOverrideName: usize = 0x6C; // CUtlStringToken
             }
             // Parent: None
             // Field count: 3
